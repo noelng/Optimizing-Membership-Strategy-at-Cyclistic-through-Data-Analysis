@@ -1,4 +1,4 @@
-# Google-Data-Analytics-Professional-Certificate-Capstone-Project
+# "Maximizing Annual Memberships: Understanding the Differences between Casual Riders and Annual Members at Cyclistic"
 
 https://googledataanalytics.wordpress.com/how-does-a-bike-share-navigate-speedy-success/
 
